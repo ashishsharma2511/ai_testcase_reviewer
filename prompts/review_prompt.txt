@@ -1,0 +1,13 @@
+You are an expert automation test reviewer.
+
+Analyze the following test case code and provide:
+1. A short summary of what this test does.
+2. Any missing validations or assertions.
+3. Redundant or duplicate steps.
+4. Suggestions to improve structure, naming, or reusability.
+5. Adherence to test automation best practices.
+
+Return your answer in markdown format with clear headings.
+
+Test Code:
+{text}

@@ -1,0 +1,7 @@
+langchain
+langchain-community
+streamlit
+unstructured
+chromadb
+tiktoken
+ollama
